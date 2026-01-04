@@ -1,19 +1,12 @@
 # Rising Desk
 
-> A concise, customizable README template for the Rising Desk project. Replace placeholders and examples below with details for your application.
-
-<!-- Badges (replace with your CI, coverage, and license badges) -->
-
-[![Build Status](https://img.shields.io/badge/build-pending-lightgrey)](#) [![License](https://img.shields.io/badge/license-MIT-blue)](#)
-
-
 ## About
 
 Rising Desk was a project made for school project only using HTML, CSS. What this project is the design of the Desk Selling Company Website.
 Made in 2023.
 
 ## Demo
-- Live demo: [https://your-app.example.com](https://winstonjames2.github.io/Rising-Desk/)
+- Live demo: [https://winstonjames2.github.io/Rising-Desk]
 
 ## Getting Started
 
